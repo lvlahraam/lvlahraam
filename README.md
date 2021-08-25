@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <p align="center">
   <a href="https://discord.gg/Mj87uvaEW9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://discord.com/oauth2/authorize?client_id=844226171972616205&scope=bot&permissions=8"><img alt="Brevity Bot" title="Brevity Bot" src="https://img.shields.io/badge/-Brevity-Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/oauth2/authorize?client_id=844226171972616205&scope=bot&permissions=8"><img alt="Brevity Bot" title="Brevity Bot" src="https://img.shields.io/badge/-Brevity-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 

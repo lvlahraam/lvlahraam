@@ -1,4 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h3 align="center">Hey there, I'm lvlahraam</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <p align="center">
   <a href="https://discord.gg/Mj87uvaEW9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Support Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://discord.com/oauth2/authorize?client_id=844226171972616205&scope=bot&permissions=8"><img alt="Brevity Bot" title="Brevity Bot" src="https://img.shields.io/badge/-Brevity Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>

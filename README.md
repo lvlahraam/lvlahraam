@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://discord.gg/Mj87uvaEW9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Support Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://discord.com/oauth2/authorize?client_id=844226171972616205&scope=bot&permissions=8"><img alt="Brevity Bot" title="Brevity Bot" src="https://img.shields.io/badge/-Brevity Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
+</p>
 
 # Hey there!
 
@@ -19,9 +19,8 @@
 
 ----
 
+<p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=lvlahraam" alt="visitor badge"/>
-  ![stats](https://github-readme-stats.vercel.app/api?username=w6t&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w6t&layout=compact&theme=dark)<p align="center">
 </p>
 
 

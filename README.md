@@ -1,4 +1,4 @@
-<h1 align="center"></a><img src="https://discord.c99.nl/widget/theme-4/494496285676535811.png">                                                                                     
+<h1 align="center"></a><img src="https://discord.c99.nl/widget/theme-4/798928603201929306.png">                                                                                     
 
 ![stats](https://github-readme-stats.vercel.app/api?username=lvlahraam&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvlahraam&layout=compact&theme=dark)<p align="center">

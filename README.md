@@ -1,4 +1,4 @@
-<p align="center"></a><img src="https://discord.c99.nl/widget/theme-1/494496285676535811.png">                                                                                     
+<h1 align="center"></a><img src="https://discord.c99.nl/widget/theme-1/494496285676535811.png">                                                                                     
 
 <p align="center">
   <a href="https://discord.gg/Mj87uvaEW9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Support Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>

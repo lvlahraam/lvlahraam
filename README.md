@@ -1,7 +1,7 @@
 <h1 align="center"></a><img src="https://discord.c99.nl/widget/theme-4/494496285676535811.png">                                                                                     
 
-![stats](https://github-readme-stats.vercel.app/api?username=w6t&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w6t&layout=compact&theme=dark)<p align="center">
+![stats](https://github-readme-stats.vercel.app/api?username=lvlahraam&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvlahraam&layout=compact&theme=dark)<p align="center">
 
 <p align="center">
   <a href="https://discord.gg/Mj87uvaEW9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Support Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>

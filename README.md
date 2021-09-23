@@ -11,9 +11,7 @@
 # Hey there!
 
 - :muscle:  Currently creating discord bots and small projects.
-- :gift_heart:  Owner of Brevity Bot
-- ✊ Not perfect, but i'll be one day.
-- :dart:  Wasting my time to save other people's time.
+- :gift_heart:  Owner of Mei-Bot.
 
 
 ## :wrench: Interests

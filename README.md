@@ -11,7 +11,7 @@
 # Hey there!
 
 - :muscle:  Currently creating discord bots and small projects.
-- :gift_heart:  Owner of Mei-Bot. - https://github.com/lvlahraam/Mei-Bot
+- :gift_heart:  Owner of Pembu-Bot. - https://github.com/lvlahraam/Pemgu-Bot
 
 
 ## :wrench: Interests

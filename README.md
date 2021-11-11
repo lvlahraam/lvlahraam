@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://discord.gg/Mj87uvaEW9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Support Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://discord.com/oauth2/authorize?client_id=844226171972616205&scope=bot&permissions=8"><img alt="Brevity Bot" title="Brevity Bot" src="https://img.shields.io/badge/-Brevity Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/oauth2/authorize?client_id=844226171972616205&scope=bot&permissions=8"><img alt="Pemgu Bot" title="Pemgu Bot" src="https://img.shields.io/badge/-Pemgu Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 # Hey there!
